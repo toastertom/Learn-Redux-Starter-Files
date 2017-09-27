@@ -11,4 +11,4 @@ const Single = React.createClass( {
   }
 })
 
-export default Main;
+export default Single;
